@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { superForm } from 'sveltekit-superforms/client';
-	import SuperDebug from 'sveltekit-superforms/client/SuperDebug.svelte';
 	import { donationSchema } from '$lib/utils/schema';
 	import { toastError } from '$lib/utils/toastHelper.js';
 	import { getToastStore } from '@skeletonlabs/skeleton';
@@ -26,7 +25,6 @@
 
 
 
-<SuperDebug data={form}/>
 
 <div class="card">
 
