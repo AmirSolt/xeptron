@@ -18,7 +18,7 @@
 
 
 <div class="card">
-    <div class="flex flex-col justify-center items-start gap-2">
+    <div class="flex flex-col justify-center items-start gap-4">
 
         <h1>Detectors</h1>
 

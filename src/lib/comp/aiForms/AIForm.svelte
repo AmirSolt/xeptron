@@ -57,7 +57,7 @@
 </script>
 
 <form on:submit={handleSubmit} class="card variant-ringed space-y-8">
-		<label class="w-full">
+		<label class="w-full space-y-2">
 			<div class="flex justify-between items-end w-full p-2">
 				<h1>
 					{aiTextForm.title}
